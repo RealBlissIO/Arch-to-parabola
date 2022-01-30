@@ -4,4 +4,4 @@ This script migrates your arch install onto parabola
 + sudo
 + doas
 ## This script was fully made from https://wiki.parabola.nu/Migration_from_Arch if you have any problem please check out this site for resolution
-this script will downgrade every package to the version of the packages available in the parabola repositories and will change evry non free software to a free alternative
+this script will downgrade every package to the version of the packages available in the parabola repositories and will change every non free software to a free alternative
